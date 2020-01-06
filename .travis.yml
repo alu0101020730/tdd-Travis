@@ -6,4 +6,3 @@ script:
   - cd gema
   - bundle install
   - bundle exec rake spec
-
