@@ -1,6 +1,4 @@
 language: ruby
-rvm:
-- 2.3.0
-- 2.2.4
+rvm: 2.5.1
 script: bundle exec rake
 
