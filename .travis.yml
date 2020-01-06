@@ -2,4 +2,7 @@ language: ruby
 rvm: 2.2
 script: 
 - cd gema
+- gem update --system
+- gem install bundler
+- bundler update --bundler
 - bundle exec rake spec
