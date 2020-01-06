@@ -7,7 +7,6 @@ script:
 script:
   - cd gema
   - bundle install
-  - bundle exec rake db:setup
   - bundle exec rake spec
 cache: bundler
 services:
