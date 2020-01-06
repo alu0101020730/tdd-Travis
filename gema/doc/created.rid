@@ -1,0 +1,17 @@
+Sun, 05 Jan 2020 20:27:59 +0000
+./spec/gema_spec.rb	Sun, 05 Jan 2020 20:27:44 +0000
+./spec/spec_helper.rb	Mon, 25 Nov 2019 16:09:02 +0000
+./Rakefile	Mon, 25 Nov 2019 16:09:02 +0000
+./Gemfile.lock	Mon, 25 Nov 2019 16:09:02 +0000
+./Guardfile	Mon, 25 Nov 2019 16:09:02 +0000
+./lib/gema.rb	Sun, 05 Jan 2020 18:29:06 +0000
+./lib/gema/list.rb	Sun, 15 Dec 2019 15:25:16 +0000
+./lib/gema/alimentos.rb	Sun, 05 Jan 2020 18:47:20 +0000
+./lib/gema/menu.rb	Sun, 05 Jan 2020 20:18:58 +0000
+./lib/gema/version.rb	Mon, 25 Nov 2019 16:09:02 +0000
+./lib/gema/calculadora.rb	Sun, 15 Dec 2019 15:18:15 +0000
+./lib/gema/plato.rb	Sun, 05 Jan 2020 20:20:23 +0000
+./bin/setup	Mon, 25 Nov 2019 16:09:02 +0000
+./bin/console	Mon, 25 Nov 2019 16:09:02 +0000
+./gema.gemspec	Mon, 25 Nov 2019 16:09:02 +0000
+./Gemfile	Mon, 25 Nov 2019 16:09:02 +0000
