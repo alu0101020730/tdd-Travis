@@ -2,14 +2,8 @@ language: ruby
 rvm:
 - 2.3.0
 - 2.4.0
-bundler_args: --jobs=2
-script:
 script:
   - cd gema
   - bundle install
   - bundle exec rake spec
-cache: bundler
-services:
-  - postgresql
-addons:
-  postgresql: "9.4"
+
