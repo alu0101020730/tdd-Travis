@@ -6,6 +6,7 @@ bundler_args: --jobs=2
 script:
 script:
   - cd gema
+  - bundle install
   - bundle exec rake db:setup
   - bundle exec rake spec
 cache: bundler
