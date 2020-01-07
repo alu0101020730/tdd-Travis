@@ -9,7 +9,7 @@
 <p> Implementacion herencia </p>
 
 <h5> Practica 9. Programacion funcional </h5>
-<p> Implementacion huella nutricional </p>
+<p> Implementacion huella nutricional </p> 
 
 <h6> Practica 10. Programacion DSL </h6>
 <p> Implementacion plato, menu, travis y coverall </p>
