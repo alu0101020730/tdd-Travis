@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 gem 'coveralls', require: false
+gem 'menu', '~> 0.1.0'
 # Specify your gem's dependencies in gema.gemspec
 gemspec
