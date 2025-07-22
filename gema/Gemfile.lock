@@ -75,7 +75,7 @@ GEM
     sync (0.5.0)
     term-ansicolor (1.7.1)
       tins (~> 1.0)
-    thor (0.20.3)
+    thor (1.4.0)
     tins (1.23.0)
       sync
 
